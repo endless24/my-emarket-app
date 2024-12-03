@@ -1,0 +1,25 @@
+{
+  "name": "my-emarket-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "json-server": "json-server --watch db.json --port 3001",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "json-server": "^0.17.0",
+    "postcss": "^8.4.17"
+  }
+}

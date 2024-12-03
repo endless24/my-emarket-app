@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": "17383",
+      "name": "Camera lens",
+      "price": 92.09,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/lens.avif",
+      "qty": 1
+    },
+    {
+      "id": "26435",
+      "name": "Wrist Watch",
+      "price": 39.93,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/watch.jpeg",
+      "qty": 1
+    },
+    {
+      "id": "36482",
+      "name": "Leather Shoe",
+      "price": 80.56,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/shoe.jpeg",
+      "qty": 1,
+      "sold": false
+    },
+    {
+      "id": "46357",
+      "name": "Cap",
+      "price": 84.99,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/cap.jpeg",
+      "qty": 1,
+      "sold": false
+    },
+    {
+      "id": "58384",
+      "name": "Bluetooth Speaker",
+      "price": 50.02,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/speaker.jpeg",
+      "qty": 1,
+      "sold": true
+    },
+    {
+      "id": "63836",
+      "name": "Basketball",
+      "price": 47.48,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/basketball.jpeg",
+      "qty": 1,
+      "sold": false
+    },
+    {
+      "id": "75483",
+      "name": "Study Table and chair",
+      "price": 73.95,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/office.avif",
+      "qty": 1,
+      "sold": false
+    },
+    {
+      "id": "84758",
+      "name": "Basketball Shoe",
+      "price": 80.73,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/bball_shoe.jpeg",
+      "qty": 1,
+      "sold": false
+    },
+    {
+      "id": "843480",
+      "name": "Mug Cup",
+      "price": 95.23,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/mugcup.avif",
+      "qty": 1,
+      "sold": true
+    },
+    {
+      "id": "43384",
+      "name": "Red Dice",
+      "price": 9.23,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/dice.avif",
+      "qty": 1,
+      "sold": true
+    },
+    {
+      "id": "843484",
+      "name": "Tea Cup",
+      "price": 36.23,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/teaCup.avif",
+      "qty": 1,
+      "sold": true
+    },
+    {
+      "id": "84384",
+      "name": "Roller",
+      "price": 95.23,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "/images/plank.avif",
+      "qty": 1,
+      "sold": true
+    }
+  ],
+  "carts": []
+}
